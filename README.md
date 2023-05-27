@@ -1,1 +1,1 @@
-# notebooks
+This repository contains notebooks and code examples for working with Langchain, Llama_index, different LLMs, like OpenAI, HuggingFace, Cohere, and vector databases like Pinecone, Chroma, Qdrant, etc.
